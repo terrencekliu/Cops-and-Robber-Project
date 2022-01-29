@@ -1,5 +1,5 @@
 # Note
-- The .exe is missing the stdout (System.out.print()), which notifies the player of amount of money
+- The .exe is missing the stdout functionality, which notifies the player of amount of money
 
 # Overview
 - An interactive game coded in Java: player collect and deliver money to bank without touching police
