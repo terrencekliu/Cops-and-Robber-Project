@@ -1,0 +1,17 @@
+store images/shop.bmp 255 255 255 0
+store images/shop1.bmp
+grass images/grass.bmp 255 255 255 0
+police images/police0.bmp 255 255 255 0
+police images/police1.bmp
+police images/police2.bmp
+obstacle images/tree.bmp
+player images/car.bmp
+decoy images/decoy.bmp
+water images/water.bmp
+road images/road.bmp
+chopper images/chopper0.bmp 255 255 255 0
+chopper images/chopper1.bmp
+dump images/dump0.bmp 255 255 255 0
+dump images/dump1.bmp
+flower images/flower.bmp 255 255 255 0
+background_default images/none.bmp
